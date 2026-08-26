@@ -38,7 +38,6 @@ _Please note: All BAT members speak English unless otherwise noted._
 | ------------- | :-----------------: | :-------------------------: | ------------------------- |
 | [willow]      |                     |                             | February 5th, 2025([^10]) |
 | [Cuddles]     |   BAT Management    |                             | May 16th, 2025            |
-| [Donkey Kong] |                     |                             | June 21th, 2025           |
 | [Ura]         |                     |                             | June 22nd, 2026           |
 | [gsxr4o0]     | Taikosu hitsounding |        Some Japanese        | July 29th, 2026           |
 
@@ -87,15 +86,7 @@ _Please note: All BAT members speak English unless otherwise noted._
 | [SomalianPants]       |                  February 21st, 2026([^11]) -> May 13th, 2026([^17])                  |
 | [laurafied]           |                         January 11th, 2026 -> June 10th, 2026                         |
 | [kingkurboh335]       |                       May 22nd, 2024([^3]) -> August 18th, 2026                       |
-
-## History
-
-[Levi] Removed himself from osu!BAT as soon as new members showed up to focus more on developing Titanic.
-[Ada] Removed himself from osu!BAT due to inactivity for the past 6 months.
-[pimpG] was removed from osu!BAT due to inactivity.
-[Azu] was removed from osu!BAT due to inactivity.
-[Konoe] was removed from osu!BAT and osu!catch BAT due to inactivity.
-[SomalianPants] was removed from osu!BAT due to inactivity.
+| [Donkey Kong]         |                          June 21th, 2025 -> August 26th, 2026                         |
 
 ## Notes
 
